@@ -35,14 +35,14 @@ public class TV {
 	}
 	
 	public int getVolumen() {
-		return precio;
+		return volumen;
 	}
 	public void setVolumen(int volumen) {
 		this.volumen=volumen;
 	}
 	
 	public int getCanal() {
-		return precio;
+		return canal;
 	}
 	public void setCanal(int canal) {
 		this.canal=canal;
